@@ -47,6 +47,9 @@ https://www.gentoo.org/inside-gentoo/developers/retired-developers.html
 
 ### Greencore Solutions
 
+Greencore is born out of local talent without venture capital or any other form of external financing, to provide a professional technical support for GNU/Linux servers that was lacking heavily at the time and was keeping a lot of government and private bussineses from migrating to free software.
+
+From the start we partnered with the free software and Linux community in Costa Rica by sponsoring events, giving out lectures, participating in installfest, handing out GNU/Linux distributions and welcoming questions from newbie users as well as bussines owners that were newbie to GNU/Linux.
 
 ## Certifications
 
