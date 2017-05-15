@@ -3,9 +3,10 @@ Some of the stuff that makes me a polymath
 
 ## Costa Rica's free software community
 
-GULCR: GNU/Linux was in the country very early, where a community of users call Grupo de Usuarios de Linux de Costa Rica formed around the main tech universities at the time: Universidad Latina where I worked, Universidad de Costa Rica and Tecnológico de Costa Rica.
+- GULCR: GNU/Linux was in the country very early, where a community of users call Grupo de Usuarios de Linux de Costa Rica formed around the main tech universities at the time: Universidad Latina where I worked, Universidad de Costa Rica and Tecnológico de Costa Rica.
 As an active member of the Group we organized and participated in advocacy fair around the country with installfest, lectures and demostrations. We got to bring Phil Huges and later Richard Stallman. I also served as listmaster and webmaster.
-RCSL: A savory note from having Stallman is that he would not take pictures or participate with GULCR because the name does not include "GNU" on it's name. Due to some administrative issues with the linux.or.cr domain, resources moved slowly to the Red Costarricense de Software Libre. By this time my company Greencore already started to we sponsored many fairs and events.
+
+- RCSL: A savory note from having Stallman is that he would not take pictures or participate with GULCR because the name does not include "GNU" on it's name. Due to some administrative issues with the linux.or.cr domain, resources moved slowly to the Red Costarricense de Software Libre. By this time my company Greencore already started to we sponsored many fairs and events.
 
 
 ## Unix Developer Timeline
@@ -21,28 +22,28 @@ I took the partial Slackware for Sparc distribution that was being maintained by
 
 The distribution was used in production in Universidad Latina de Costa Rica, as well as a university in Norway, and had a small but loyal community of users eager to test new packages and feedback. After recruiting two part time developers for the project I lost all of the Sparc resources for building the distribution so I hand it over to the Universidad Latina team as well as the Spack Linux community.
 
-https://es.wikipedia.org/w/index.php?title=Splack_Linux&action=edit&redlink=1
-https://sourceforge.net/projects/splack/
-https://distrowatch.com/weekly.php?issue=20040607#waiting
+- [Splack project on sourceforge](https://sourceforge.net/projects/splack/)
+
+- [Splack project on distrowatch](https://distrowatch.com/weekly.php?issue=20040607#waiting)
 
 ### LKML
 
 I was quite active in the Linux Kernel Mailing list, debugging and testing kernels for the SPARC and UltraSPARC architecture. Infamously, I once had a fight with Alan Cox, that I guess I won in the sense that the patch I complained about to this day breaks audio on some Sun models.
 
-http://lkml.iu.edu/hypermail//linux/kernel/0303.3/1788.html
+- [Alvaro and Alan Cox in LKML](http://lkml.iu.edu/hypermail//linux/kernel/0303.3/1788.html)
 
 ### SGI Mailing list
 
 I collaborated with the XFS file system team from Silicon Graphics when the file system port for Linux was still very early. I mostly ran long regression tests in my SPARC and UltraSPARC testing hardware, tested patches for them.
 
-http://oss.sgi.com/archives/xfs/2002-02/msg01698.html
+- [Testing stuff for XFS](http://oss.sgi.com/archives/xfs/2002-02/msg01698.html)
 
 ### Developer for the Gentoo Linux distribution
 While trying the Gentoo distribution in the SPARC/UltraSPARC architecture, I found lot's of very minor bugs and packages that have not been ported to this architecture, so I spent a bit of time in the IRC submitting small patches.
 
 After helping the gentoo-sparc team to hunt down a couple of XMMS weird errors, I was offered an developer account for the distribution and became a Gentoo developer for a short period of time.
 
-https://www.gentoo.org/inside-gentoo/developers/retired-developers.html
+- [Retired Gentoo developers](https://www.gentoo.org/inside-gentoo/developers/retired-developers.html)
 
 ## Business
 
@@ -52,13 +53,15 @@ Greencore is born out of local talent without venture capital or any other form 
 
 From the start we partnered with the free software and Linux community in Costa Rica by sponsoring events, giving out lectures, participating in installfest, handing out GNU/Linux distributions and welcoming questions from newbie users as well as business owners that were newbie to GNU/Linux.
 
+- [Greencore's Website](http://www.greencore.co.cr/)
+
 ## Certifications
 
 ### Red Hat
 
 I'm currently a Red Hat Certified Instructor and Examiner for Red Hat Learning Certifications, ID 140-205-758 as Red Hat Examiner (RHCX), RHCSA, RHCE, RHCSA-Openstack, RHCVA and an Certificate of Expertise in Ansible Automation.
 
-You can look at the complete list in the [Red Hat Website](https://www.redhat.com/rhtapps/certification/verify/?certId=140-205-758)
+- You can look at the complete list in the [Red Hat Website](https://www.redhat.com/rhtapps/certification/verify/?certId=140-205-758)
 
 ## Hobbies
 
@@ -90,7 +93,7 @@ Click here to read about the [Moore constellation](https://github.com/fede2cr/mo
 
 
 This is a photo taken by a coworker, during a Red Hat certification course we took a bit of time to show the students this rare astronomical events. Shot with a cellphone camera, handheld to they eyepiece of a Celestron Firstscope with solar adapters.
-![Mercury Transit](https://github.com/fede2cr/portfolio/blob/master/doc/img/Mercury transit.jpg "Mercury")
+![Mercury Transit](https://github.com/fede2cr/portfolio/blob/master/doc/img/Mercury%20transit.jpg "Mercury transit")
 
 ### Biology: Plankton lab, yeast lab, synthetic bio
 One of the rooms in my house was converted to a biology laboratory where I'm learning microscopy techniques and have started to gather a collection of plankton from water sources around the country.
