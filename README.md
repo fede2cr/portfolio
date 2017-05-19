@@ -8,6 +8,12 @@ As an active member of the Group we organized and participated in advocacy fair 
 
 - RCSL: A savory note from having Stallman is that he would not take pictures or participate with GULCR because the name does not include "GNU" on it's name. Due to some administrative issues with the linux.or.cr domain, resources moved slowly to the Red Costarricense de Software Libre. By this time my company Greencore already started to we sponsored many fairs and events.
 
+## Fairs
+
+Most of them as collaborator.
+
+
+![My fairs](https://github.com/fede2cr/portfolio/blob/master/doc/img/fairs.gif "My fairs")
 
 ## Unix Developer Timeline
 
