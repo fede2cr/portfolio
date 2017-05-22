@@ -12,7 +12,6 @@ As an active member of the Group we organized and participated in advocacy fair 
 
 Most of them as collaborator.
 
-
 ![My fairs](https://github.com/fede2cr/portfolio/blob/master/doc/img/fairs.gif "My fairs")
 
 ## Unix Developer Timeline
@@ -59,6 +58,8 @@ Greencore is born out of local talent without venture capital or any other form 
 
 From the start we partnered with the free software and Linux community in Costa Rica by sponsoring events, giving out lectures, participating in installfest, handing out GNU/Linux distributions and welcoming questions from newbie users as well as business owners that were newbie to GNU/Linux.
 
+Currently Greencore provides support and consulting services to clients from government to private industry, as well as teach to all ages to topics from GNU/Linux server administration, information security, robotics with open hardware. We are training partners for Red Hat, Linux Foundation and Oracle, with the only Red Hat Certification Kiosk in Central America.
+
 - [Greencore's Website](http://www.greencore.co.cr/)
 
 ## Certifications
@@ -81,7 +82,7 @@ In the near future I hope to expand to two brew pots to shorten the recipe time,
 
 ### Robotics
 
-The Arduino bug bit me early, before the Arduino UNOs where even out. Shortly after starting with electronics I designed a CC-licensed Robotics course based around open hardware (instead of LEGOs which are the norm in Costa Rica) that we are using to teach hundreds of adults and a few docene kids.
+The Arduino bug bit me early, before the Arduino UNOs where even out. Shortly after starting with electronics I designed a CC-licensed Robotics course based around open hardware (instead of LEGOs which are the norm in Costa Rica) that we are using to teach hundreds of adults and dozens kids.
 
 The ESP8266, SAMD21 and now ESP32 are opening IoT alternatives as well as programming in MicroPython/CircuitPython.
 
@@ -98,7 +99,8 @@ The idea is to have a bunch of inexpensive mini-observatories in educational ins
 Click here to read about the [Moore constellation](https://github.com/fede2cr/moore_constellation) project.
 
 
-This is a photo taken by a coworker, during a Red Hat certification course we took a bit of time to show the students this rare astronomical events. Shot with a cellphone camera, handheld to they eyepiece of a Celestron Firstscope with solar adapters.
+This is a photo taken by a coworker, during a Red Hat certification course we took a bit of time to show the students this rare astronomical event. Shot with a cellphone camera, handheld to they eyepiece of a Celestron Firstscope with solar adapters.
+
 ![Mercury Transit](https://github.com/fede2cr/portfolio/blob/master/doc/img/Mercury%20transit.jpg "Mercury transit")
 
 ### Biology: Plankton lab, yeast lab, synthetic bio
@@ -111,6 +113,8 @@ All of my woodworking tools are for modifying and setting up guitars, form acous
 My experience so for have been in modifying an inexpensive mass produced bass to a fretless setup with acoustic and electroacoustic adjustments, setting up an acoustic metal string from a maker in Argentina, setting up a vintage floyd rose on an old Ibanez, electronics replacement on an active bass from Ibanez and currently doing a secret repair on a historic guitar from a master player from Costa Rica.
 As soon as I have enough tools I plan to start the construction of an acoustic arched top fretless bass with piezo pickups embed in the neck.
 
+![Luthier portfolio](https://github.com/fede2cr/portfolio/blob/master/doc/img/luthier/luthier.gif "Luthier portfolio")
+
 ### Music
 
 I started playing way before I started modifying instruments. Played on a band in high school, and since have been learning complicated songs that takes me years to learn.
@@ -120,8 +124,17 @@ I'm trying to refine:
 - For the Love of God by Steve Vai, on 6 string electric guitar with sustainer
 - Spanish Fly by Van Halen, on 6 string classic nylon string guitar
 
-### Paleontology
-### Arqueology
+### Photography
+
+While learning DSRL photography I got the chance of doing amateur work for Mundo Motorizado, a local sports news team, covering international rally events (NACAM), as well as GT1 class, motorbikes, national championships and others. I also enjoy photographing nature, amateur sports and public events.
+
+On the non digital side of photography I created a CC-licensed workshop for kids and adults that includes the construction of a pin hole camera, and cyanotype paper usage, photographic paper and developing with non toxic household items such as coffee, mint tea, vitamin C, lemon juice.
+
+![Greencore in mint](https://github.com/fede2cr/portfolio/blob/master/doc/img/fotografia/Greencore_in_mint.jpg "Greencore in mint")
+
+Currently I'm learning multi-stacked microscopy and also solar astrophotography with inexpensive adapters, and planetary photography while testing parts for the Moore constellation project.
+
+### Archaeology
 
 The members of my father's side of the family have the tendency to "find" spear points everywhere so I started learning about different types of spear points and axes, construction and local sites to find them.
 With success I have clarified a recent finding, identifying the piece as a flint that came out of the construction or a medium sized ax and how to blow was made and the angles used by the maker.
