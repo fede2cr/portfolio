@@ -128,6 +128,9 @@ I'm trying to refine:
 
 While learning DSRL photography I got the chance of doing amateur work for Mundo Motorizado, a local sports news team, covering international rally events (NACAM), as well as GT1 class, motorbikes, national championships and others. I also enjoy photographing nature, amateur sports and public events.
 
+![Photography](https://github.com/fede2cr/portfolio/blob/master/doc/img/fotografia/fotografia.gif "Photography")
+
+
 On the non digital side of photography I created a CC-licensed workshop for kids and adults that includes the construction of a pin hole camera, and cyanotype paper usage, photographic paper and developing with non toxic household items such as coffee, mint tea, vitamin C, lemon juice.
 
 ![Greencore in mint](https://github.com/fede2cr/portfolio/blob/master/doc/img/fotografia/Greencore_in_mint.jpg "Greencore in mint")
@@ -159,3 +162,25 @@ I have some of my designs in my [Thingiverse profile](http://www.thingiverse.com
 - [Luthier tools](https://github.com/fede2cr/3d_luthier_tools): Lots of tools used in woodworking and on luthier work specially can be 3d printed. I use a number of 3d printed parts from other designers, and have also made guides for using screw extractor without a drill press.
 
 - [Playground spool](https://github.com/fede2cr/playground_spool): In 3d printing is normal to have extrusion jams, specially on long prints or with flexible materials. So I decided to use the accelerometer in a CircuitPlayground to follow the rotation of the spool and notify with an audio alert if the spool stops feeding filament. Printed in flexible material but can be adjusted to print in PLA.
+
+### Magrathea Terraforming
+
+I'm combining drones with seeds bombs to aid in reforestation and afforestation, at the moment experimenting with seed dispersion for diverse seed/tree type.
+
+[Github page](https://github.com/fede2cr/magrathean_terraforming_services)
+
+### Woodworking
+
+I'm currently building a wall clock with mechanical movement, using traditional woodworking techniques and learning more as I hope to get into future restoration projects and building more units. No photos yet as the first project is a secret.
+
+### Book restoration and binding
+
+Some of the books in my personal library have suffered some minor damage through the years so I'm using them as practice for learning book restoration traditional techniques, as well as creating a notebook with an embedded [Circuit Playground](https://www.adafruit.com/product/3333).
+
+### Languages
+
+Either dead languages, artificial ones or even some I can actually use, I love to learn languages, even if I'm not great at practicing them once I've learned them on a basic level. Currently reading cuneiform, esperanto, portuguese, and noregian (bokmål).
+
+### Cryptography
+
+As every basic cryptographer should start, I have tried some basic exercises on the Voynich Manuscript, as well as doing by hand the techniques of Al Kindi. I try to use the things I learn with [teaching guides](https://github.com/fede2cr/greencore_wargames).
